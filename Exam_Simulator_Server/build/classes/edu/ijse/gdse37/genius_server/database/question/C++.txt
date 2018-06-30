@@ -1,0 +1,1 @@
+Q0001:C++:oop:where is dall?:cat:bat:dall:man:woman:false:false:false:false:false:
